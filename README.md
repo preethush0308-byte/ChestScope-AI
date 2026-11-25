@@ -234,14 +234,20 @@ Tests cover image validation (non-existent, corrupt, empty, and too-small files)
 
 ---
 
+
 ## 📝 License & Author
 
-### License:
-This project is licensed under the MIT License.
+### License
+This project is licensed under the [MIT License](LICENSE).
 
-### Author:
-**Lokesh**  
-*   GitHub: [https://github.com/SLOKESH2205](https://github.com/SLOKESH2205)
+### Author
+**Preetham**
+
+- GitHub: [@preethush0308-byte](https://github.com/preethush0308-byte)
+
+---
+
+*If you find this project useful, consider giving it a ⭐ on GitHub!*
 
 ---
 
